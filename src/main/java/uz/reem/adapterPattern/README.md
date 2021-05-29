@@ -27,4 +27,4 @@ Clients don't know whether they work with a target class directly or through an 
 with a class that doesn't have the target interface.
 
 ### Source:
-[https://en.wiki.org/wiki/Adapter_pattern](https://en.wiki.org/wiki/Adapter_pattern)
+[https://en.wikipedia.org/wiki/Adapter_pattern](https://en.wikipedia.org/wiki/Adapter_pattern)

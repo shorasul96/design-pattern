@@ -5,7 +5,7 @@ together. This is the real-world definition for an adapter. Interfaces<br>
 maybe incompatible, but the inner functionality should suit the need.<br>
 The adapter design pattern allows otherwise incompatible classes to <br>
 work together by converting the interface of one class into an interface <br>
-expected by clients.<br>
+expected by clients.<Br>
 An adapter can be used when the wrapper must respect a particular interface and<br> 
 must support polymorphic behavior. Alternatively, a decorator makes it possible <br>
 to add or alter behavior of an interface at run-time, and a facade is used when<br>

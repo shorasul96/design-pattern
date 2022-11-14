@@ -6,6 +6,8 @@ package uz.reem;
  */
 public class App 
 {
+
+    // its just bad idea to retrieve me
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );

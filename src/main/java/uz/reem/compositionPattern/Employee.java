@@ -1,6 +1,6 @@
 package uz.reem.compositionPattern;
 
-// inte
+// int
 public interface Employee {
     void displayEmployeeInfo();
 

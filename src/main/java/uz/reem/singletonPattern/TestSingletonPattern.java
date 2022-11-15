@@ -1,5 +1,6 @@
 package uz.reem.singletonPattern;
 
+//asdf
 public class TestSingletonPattern {
     public static void main(String[] args) {
         Object object = new Object();

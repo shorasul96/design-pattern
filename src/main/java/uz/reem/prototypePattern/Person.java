@@ -2,7 +2,7 @@ package uz.reem.prototypePattern;
 
 import lombok.Data;
 import lombok.experimental.Accessors;
-
+//data
 @Data
 @Accessors(chain = true)
 public class Person implements Cloneable{

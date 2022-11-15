@@ -8,7 +8,7 @@ import uz.reem.factoryMethodPattern.entities.productFactory.ProductFactory;
 import uz.reem.factoryMethodPattern.entities.productFactory.factory.ProductPremium;
 import uz.reem.factoryMethodPattern.entities.productFactory.ProductEntity;
 import uz.reem.factoryMethodPattern.entities.productFactory.factory.ProductVip;
-//inter
+//int
 public class TestFactoryMethodPattern {
     public static void main(String[] args) {
         DatabaseConnectionFactory mySqlFactory = new MySqlConnectionFactory()

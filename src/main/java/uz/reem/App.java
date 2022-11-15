@@ -7,7 +7,7 @@ package uz.reem;
 public class App 
 {
     public static void main( String[] args )
-    {
+    {//qwe
         System.out.println( "Hello World!" );
     }
 }

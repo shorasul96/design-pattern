@@ -1,5 +1,5 @@
 package uz.reem.singletonPattern;
-
+//ty
 public class Singleton {
     private static Singleton instance;
 
